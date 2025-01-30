@@ -20,3 +20,7 @@ if(lowerTest.isupper()):
     print("The sentence is lower")
 print(lowerTest.lower())
 
+replaceTest = "Kerem Erkut"
+replaceTestReplaced = replaceTest.replace("e","a")
+print(replaceTestReplaced)
+
