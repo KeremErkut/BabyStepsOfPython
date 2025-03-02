@@ -14,3 +14,6 @@ print(notes[:2])
 print(notes[2:])
 print(notes[0:2])
 print(list[4][0])
+
+list.append("kerem")
+list.remove("kerem")
