@@ -17,3 +17,6 @@ print(list[4][0])
 
 list.append("kerem")
 list.remove("kerem")
+list.insert(0,"kerem")
+list.insert(len(list),"99")
+list.pop(0)
