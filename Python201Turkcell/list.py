@@ -16,7 +16,23 @@ print(notes[0:2])
 print(list[4][0])
 
 list.append("kerem")
+
 list.remove("kerem")
+
 list.insert(0,"kerem")
+
 list.insert(len(list),"99")
+
 list.pop(0)
+
+list.count("kerem")
+
+listBackup = list.copy()
+
+list.extend(["a","b",10])
+
+list.index("a")
+
+list.reverse()
+
+list.sort() #This methot will not work because the list contains different data types.
