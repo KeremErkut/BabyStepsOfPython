@@ -36,3 +36,5 @@ list.index("a")
 list.reverse()
 
 list.sort() #This methot will not work because the list contains different data types.
+
+list.clear() 
